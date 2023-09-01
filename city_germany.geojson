@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "city_germany",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "ciudades": "Berlin" }, "geometry": { "type": "Point", "coordinates": [ 13.382482974516662, 52.524999821979151 ] } },
+{ "type": "Feature", "properties": { "id": 2, "ciudades": "Hamburgo" }, "geometry": { "type": "Point", "coordinates": [ 10.006774703837797, 53.54669079708713 ] } },
+{ "type": "Feature", "properties": { "id": 3, "ciudades": "Frankfurt" }, "geometry": { "type": "Point", "coordinates": [ 8.679593680671642, 50.109340332412565 ] } },
+{ "type": "Feature", "properties": { "id": 4, "ciudades": "Colonia" }, "geometry": { "type": "Point", "coordinates": [ 6.960633828771145, 50.936729402612862 ] } },
+{ "type": "Feature", "properties": { "id": 5, "ciudades": "Munich" }, "geometry": { "type": "Point", "coordinates": [ 11.594518892794371, 48.139427546056361 ] } }
+]
+}
